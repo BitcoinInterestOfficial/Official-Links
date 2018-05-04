@@ -29,7 +29,7 @@
 Social Media:
 * Facebook: https://www.facebook.com/BitcoinInterestBCI/
 * Telegram Group: https://t.me/bitcoininterest
-* Telegram News/Marketing: Coming Soon
+* Telegram News/Marketing: https://t.me/BitcoinInterestMarketingTeam
 * Twitter: https://twitter.com/btcinterest
 * Youtube: https://www.youtube.com/channel/UCN887bj-N7e4uM4Qh9fb3og
 
