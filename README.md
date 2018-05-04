@@ -35,7 +35,7 @@ Social Media:
 
 
 Exchanges:
-* https://bitfinex.com/
+* Bitfinex: https://bitfinex.com/
 * TradeSatoshi: https://tradesatoshi.com/
 * OctaEx: https://www.octaex.com/
 * Exrates: https://exrates.me
