@@ -20,7 +20,6 @@
 * Calculator https://my.bitcoininterest.io/home/calculator
 * Wallets: https://bitcoininterest.io/index.html#content4-1n
 * Web Wallet: https://wallet.bitcoininterest.io
-* Support: Coming Soon
 
 * CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-interest/
 * CoinLib: https://coinlib.io/coin/BCI/Bitcoin+Interest
