@@ -40,5 +40,6 @@ Exchanges:
 * OctaEx: https://www.octaex.com/
 * Exrates: https://exrates.me
 * HitBTC: https://hitbtc.com/
+* FubT: https://fubt.top/
 
 
