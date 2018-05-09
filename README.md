@@ -26,6 +26,7 @@
 * CryptoCompare: https://www.cryptocompare.com/coins/bci/overview
 
 Social Media:
+* Blog: https://blog.bitcoininterest.io/
 * Facebook: https://www.facebook.com/BitcoinInterestBCI/
 * Telegram Group: https://t.me/bitcoininterest
 * Telegram News/Marketing: https://t.me/BitcoinInterestMarketingTeam
