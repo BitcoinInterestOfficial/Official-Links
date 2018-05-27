@@ -9,6 +9,7 @@
 * Official Website: https://bitcoininterest.io
 * Official Pool: http://pool.bitcoininterest.io:8080
 * Block Explorer: https://explorer.bitcoininterest.io
+* Alt Block Explorer: https://bci-chain.com/
 
 * Block Explorer API: https://explorer.bitcoininterest.io/api/status
 
