@@ -54,5 +54,6 @@ Exchanges:
 * Exrates: https://exrates.me
 * HitBTC: https://hitbtc.com/
 * FubT: https://fubt.top/
+* SimpleSwap: https://www.simpleswap.io/
 
 
