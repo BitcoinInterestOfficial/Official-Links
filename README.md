@@ -26,6 +26,17 @@
 * CoinLib: https://coinlib.io/coin/BCI/Bitcoin+Interest
 * CryptoCompare: https://www.cryptocompare.com/coins/bci/overview
 
+Unofficial Mining Pools:
+* Suprnova: https://bci.suprnova.cc/
+* Altpool: http://bci.altpool.pro/
+* Minez Zone: https://minez.zone/
+* Whibbit: http://pool.whibbit.cn/
+* Niburu: https://bci.nibirupool.com/
+
+What To Mine (Mining Calculator)
+* Whattomine: https://whattomine.com/coins/245-bci-equihash
+* Crypto-Coinz: https://www.crypto-coinz.net/coin-info/?140-BitcoinInterest-BCI-Equihash-calculator/
+
 Social Media:
 * Blog: https://blog.bitcoininterest.io/
 * Facebook: https://www.facebook.com/BitcoinInterestBCI/
