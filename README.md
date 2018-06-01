@@ -32,6 +32,7 @@ Unofficial Mining Pools:
 * Minez Zone: https://minez.zone/
 * Whibbit: http://pool.whibbit.cn/
 * Niburu: https://bci.nibirupool.com/
+* Solo Pool: https://bci.solopool.org/
 
 What To Mine (Mining Calculator)
 * Whattomine: https://whattomine.com/coins/245-bci-equihash
