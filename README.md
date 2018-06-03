@@ -33,6 +33,7 @@ Unofficial Mining Pools:
 * Whibbit: http://pool.whibbit.cn/
 * Niburu: https://bci.nibirupool.com/
 * Solo Pool: https://bci.solopool.org/
+* Equihash.City: http://equihash.city
 
 What To Mine (Mining Calculator)
 * Whattomine: https://whattomine.com/coins/245-bci-equihash
