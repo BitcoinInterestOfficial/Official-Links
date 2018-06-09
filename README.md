@@ -7,7 +7,7 @@
 ## Bitcoin Interest (BCI)
 
 * Official Website: https://bitcoininterest.io
-* Official Pool: http://pool.bitcoininterest.io:8080
+* Official Pool: https://pool.bci-server.com/
 * Block Explorer: https://explorer.bitcoininterest.io
 * Alt Block Explorer: https://bci-chain.com/
 
